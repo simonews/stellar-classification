@@ -10,7 +10,7 @@ L'obiettivo finale è identificare il modello più performante per distinguere t
 
 ## Guida alla Lettura
 Tutta la narrazione del progetto, dall'analisi visiva dei grafici alle motivazioni tecniche dietro la scelta dei modelli, è documentata passo dopo passo nel notebook principale:
-**`notebooks/models/Esplorazione_stellare.ipynb`**
+**`notebooks/Esplorazione_stellare.ipynb`**
 
 ## Tecnologie Utilizzate
 
