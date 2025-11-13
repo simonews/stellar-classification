@@ -1,0 +1,30 @@
+# --- Ambiente Virtuale ---
+Scripts/
+share/
+pyvenv.cfg
+lib/
+Include/
+.venv/
+env/
+
+# --- Python Cache ---
+__pycache__/
+*.py[cod]
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- Dati (Dataset) ---
+*.csv
+data/*.csv
+notebooks/*.csv
+
+# --- Output ---
+outputs/
+
+# --- IDE Settings ---s
+.vscode/
+.idea/
+
+# --- Altro ---
+CACHEDIR.TAG
