@@ -1,4 +1,4 @@
-# 🌌 Esplorazione Stellare - Classificazione di Oggetti Celesti
+# Esplorazione Stellare - Classificazione di Oggetti Celesti
 
 > Un approccio di Machine Learning per la classificazione di stelle, galassie e quasar utilizzando i dati della Sloan Digital Sky Survey (SDSS) per un progetto universitario.
 
@@ -83,5 +83,5 @@ Di seguito il confronto delle performance sui dati di test. I modelli Ensemble h
 
 ## Autori
 
-* 👨‍🚀 **Vito Simone Goffredo**
-* 🧑‍🚀 **Andrea Attadia**
+*  **Vito Simone Goffredo**
+*  **Andrea Attadia**
